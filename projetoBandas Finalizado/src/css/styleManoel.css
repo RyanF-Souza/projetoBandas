@@ -1,0 +1,30 @@
+.kamai{
+    background-color: rgb(10, 10, 10);
+}
+
+.lore{
+color: white;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    color: white;
+}
+
+.kamait{
+    color: white;
+}
+
+.heart{
+    transition: .4s;
+}
+.heart:hover{
+    cursor: pointer;
+    transform: scale(1.13);
+}
+
+.audioBackground{
+    background-color: whitesmoke;
+    border-radius: 50px;
+    width: 370px;
+}

@@ -1,0 +1,74 @@
+/* RyanFernando || Site do Queen */
+.queenBand{
+    width: 1200px;
+}
+.queenBrand{
+    border-radius: 0 0 30px 30px;
+}
+.about,.music,.clips{
+    padding: 0 20px 0;
+    margin-bottom: 40px;
+}
+.sectionTitles{
+    font-size: 30px;
+    font-family: 'Inter',sans-serif;
+    font-weight: 700;
+    line-height: 58.09px;
+}
+.aboutTitle{
+    padding-left: 17px;
+    margin: 22px 0 15px;
+}
+.aboutText{
+    text-align: justify;
+}
+.music{
+    padding: 0 20px 0;
+    
+}
+.titlesLinesMusicsClips{
+    margin-bottom: 35px;
+}
+.audioTitles{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.audioBackground{
+    background-color: #f2f3f5;
+
+    border-radius: 50px;
+
+    padding-right: 20px;
+}
+.audio{
+    width: 390px;
+}
+.heart{
+    transition: .4s;
+}
+.heart:hover{
+    cursor: pointer;
+    transform: scale(1.13);
+}
+.video{
+    transition: .4s;
+}
+.video:hover,.indexReturner:hover{
+    transform: scale(1.02);
+}
+.indexReturner{
+    padding: 10px 20px;
+    margin-bottom: 20px;
+
+    background-color: white;
+    color: rgb(50, 49, 49);
+    border: none;
+    
+    border-radius: 12px;
+
+    text-decoration: none;
+    font-family: 'Inter',sans-serif;
+    font-size: 20px;
+
+    transition: .4s;
+}

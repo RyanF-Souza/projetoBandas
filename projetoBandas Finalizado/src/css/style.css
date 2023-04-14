@@ -1,0 +1,58 @@
+/* Css do site inicial || hub das bandas */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1,h3{
+    margin: 0;
+}
+.title{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48.41px;
+    font-family: 'Inter',sans-serif;
+
+    margin: 46px 0 28px;
+}
+.container-fluid{
+    gap: 13px;
+}
+.imageLine{
+    gap: 13px;
+}
+.bandLink{
+    text-decoration: none;
+    transition: .4s;
+}
+.bandLink:hover{
+    transform: scale(1.02);
+}
+.personalInformation{
+    margin-top: -117px;
+    padding-bottom: 14px;
+}
+.perfilImage{
+    border-radius: 100%;
+
+    margin-right: 15px;
+    margin-left: 20px;
+}
+.perfilNameBox{
+    width: 247px;
+    height: 45px;
+
+    background-color: gray;
+
+    padding-left: 10px;
+}
+.perfilBandName{
+    margin-bottom: 13px;
+}
+.perfilNames{
+    font-family: 'Inter',sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29.05px;
+    color: black;
+}
